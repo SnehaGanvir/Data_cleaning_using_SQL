@@ -56,5 +56,3 @@ Through this project, I learned:
 
 ---
 
-## 📊 Project Structure
-
