@@ -56,6 +56,7 @@ Through this project, I learned:
 
 ---
 EDA on Global Layoffs Dataset
+
 📊 Overview
 
 This project explores global layoff trends using SQL. It uncovers insights like which industries, companies, and countries faced the most layoffs, and how these trends changed over time.
