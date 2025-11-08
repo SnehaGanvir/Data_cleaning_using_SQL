@@ -55,4 +55,27 @@ Through this project, I learned:
 - The importance of **data cleaning** before any analysis or visualization.
 
 ---
+EDA on Global Layoffs Dataset
+📊 Overview
 
+This project explores global layoff trends using SQL. It uncovers insights like which industries, companies, and countries faced the most layoffs, and how these trends changed over time.
+
+⚙️ Tools
+
+SQL (MySQL)
+
+Layoffs dataset (layoffs_staging2 table)
+
+🔍 Key Analysis
+
+Total layoffs by company, industry, and country
+
+Yearly & monthly layoff trends
+
+Top 5 companies by layoffs each year
+
+🚀 How to Use
+
+Import the dataset as layoffs_staging2.
+
+Run queries from EDA.sql in your SQL editor.
